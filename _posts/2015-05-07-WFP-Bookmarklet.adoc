@@ -3,4 +3,4 @@
 
 Hello!
 
-link:++javascript:('[class^=mfp-]').remove();$('html').attr('style','')++
+link:++javascript:('[class^=mfp-]').remove();$('html').attr('style','')++[drag me]
