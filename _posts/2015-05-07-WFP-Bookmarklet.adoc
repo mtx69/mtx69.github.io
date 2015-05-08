@@ -2,4 +2,4 @@
 
 Hello!
 
-<a href="#">wfp</a>
+link:++javascript:('[class^=mfp-]').remove();$('html').attr('style','')++
