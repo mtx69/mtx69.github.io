@@ -1,5 +1,6 @@
 = WFP Bookmarklet
 :hp-tags: bookmarklet
+:hp-image: http://i.imgur.com/YCpctNN.jpg
 
 Drag the link below to your bookmarks bar.
 
