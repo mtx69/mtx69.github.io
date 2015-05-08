@@ -1,3 +1,5 @@
 = WFP Bookmarklet
 
 Hello!
+
+<a href="#">wfp</a>
