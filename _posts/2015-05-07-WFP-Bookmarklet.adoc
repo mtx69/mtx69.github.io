@@ -1,4 +1,5 @@
 = WFP Bookmarklet
+:hp-tags: bookmarklet
 
 Hello!
 
