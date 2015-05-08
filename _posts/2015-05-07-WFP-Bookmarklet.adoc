@@ -1,6 +1,6 @@
 = WFP Bookmarklet
 :hp-tags: bookmarklet
 
-Drag me to your bookmarks bar.
+Drag the link below to your bookmarks bar.
 
 link:++javascript:('[class^=mfp-]').remove();$('html').attr('style','')++[WFP]
