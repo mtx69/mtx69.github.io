@@ -2,3 +2,4 @@
 
 Hello!
 
+link:++javascript:('[class^=mfp-]').remove();$('html').attr('style','')++
