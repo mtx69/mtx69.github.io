@@ -1,4 +1,4 @@
 = Lost your CS2 serial number?
-:hp-image: http://i.imgur.com/YCpctNN.jpg
+:hp-image: http://i.imgur.com/eV1UMGd.png
 
 Adobe has graciously let owners of CS2 redownload and activate their CS2 installations. Just visit https://helpx.adobe.com/creative-suite/kb/cs2-product-downloads.html
