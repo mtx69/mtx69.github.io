@@ -2,3 +2,5 @@
 :hp-image: http://i.imgur.com/eV1UMGd.png
 
 Adobe has graciously let owners of CS2 redownload and activate their CS2 installations. Just visit https://helpx.adobe.com/creative-suite/kb/cs2-product-downloads.html
+
+Click "I accept" and scroll down to the language you had installed. Supports Windows and OSX 10.6.
